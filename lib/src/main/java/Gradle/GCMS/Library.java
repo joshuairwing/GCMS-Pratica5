@@ -4,7 +4,7 @@
 package Gradle.GCMS;
 
 public class Library {
-    public boolean someLibraryMethod() {
+    public boolean someLibraryMethodd() {
     	System.out.println("Hello World");
         return true;
     }
